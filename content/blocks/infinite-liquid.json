@@ -1,0 +1,11 @@
+{
+  "type": "LiquidSource",
+  "name": "Liquid Source",
+  "description": "Sandbox item for campaign.",
+  "health": 24000,
+  "requirements": [
+    {"item": "metaglass", "amount": 1}
+    ],
+  "category": "liquid",
+  "research": "mechanical-pump"
+}
