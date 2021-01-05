@@ -1,0 +1,11 @@
+{
+  "type": "PowerSource",
+  "name": "Power Infinite",
+  "description": "Sandbox item for campaign.",
+  "health": 24000,
+  "requirements": [
+    {"item": "silicon", "amount": 1}
+    ],
+  "category": "power",
+  "research": "power-node"
+}
